@@ -61,3 +61,5 @@ iOSInjectionProject/*
 
 # pdf
 resource/
+homework/data/
+homework/.ipynb_checkpoints
