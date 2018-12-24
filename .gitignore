@@ -58,3 +58,6 @@ Podfile.lock
 
 # InjectionProject
 iOSInjectionProject/*
+
+# pdf
+resource/
